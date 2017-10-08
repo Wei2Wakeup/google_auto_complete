@@ -11,4 +11,3 @@ The webpage demo is as:
 
 [web page pull from http://www.bewebdeveloper.com](http://www.bewebdeveloper.com/tutorial-about-autocomplete-using-php-mysql-and-jquery)
 
-tuitorial from www.jiuzhang.com
